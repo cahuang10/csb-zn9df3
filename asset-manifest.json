@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://cahuang10.github.io/csb-zn9df3/static/css/main.492ff3a6.chunk.css",
+    "main.js": "https://cahuang10.github.io/csb-zn9df3/static/js/main.36322e5e.chunk.js",
+    "main.js.map": "https://cahuang10.github.io/csb-zn9df3/static/js/main.36322e5e.chunk.js.map",
+    "runtime-main.js": "https://cahuang10.github.io/csb-zn9df3/static/js/runtime-main.fdcae2dd.js",
+    "runtime-main.js.map": "https://cahuang10.github.io/csb-zn9df3/static/js/runtime-main.fdcae2dd.js.map",
+    "static/js/2.e9e08fa8.chunk.js": "https://cahuang10.github.io/csb-zn9df3/static/js/2.e9e08fa8.chunk.js",
+    "static/js/2.e9e08fa8.chunk.js.map": "https://cahuang10.github.io/csb-zn9df3/static/js/2.e9e08fa8.chunk.js.map",
+    "index.html": "https://cahuang10.github.io/csb-zn9df3/index.html",
+    "static/css/main.492ff3a6.chunk.css.map": "https://cahuang10.github.io/csb-zn9df3/static/css/main.492ff3a6.chunk.css.map",
+    "static/js/2.e9e08fa8.chunk.js.LICENSE.txt": "https://cahuang10.github.io/csb-zn9df3/static/js/2.e9e08fa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdcae2dd.js",
+    "static/js/2.e9e08fa8.chunk.js",
+    "static/css/main.492ff3a6.chunk.css",
+    "static/js/main.36322e5e.chunk.js"
+  ]
+}
